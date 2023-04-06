@@ -84,8 +84,7 @@ title = list(curr_arr.keys())[0]
 # In[8]:
 
 
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = ************************
 
 # In[18]:
 
